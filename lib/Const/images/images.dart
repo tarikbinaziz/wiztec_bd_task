@@ -1,0 +1,1 @@
+const icMenu="assets/icons/menu.png";
